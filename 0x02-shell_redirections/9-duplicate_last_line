@@ -1,2 +1,2 @@
 #!/bin/bash
-pr >  tail -1 iacta
+pr > tail -1 iacta
