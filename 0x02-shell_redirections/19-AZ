@@ -1,2 +1,2 @@
 #!/bin/bash
-tr A Z | tr c e
+sed A Z < sed c e
