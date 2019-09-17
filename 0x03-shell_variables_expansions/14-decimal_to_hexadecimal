@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.16f" $DECIMAL
+printf "%.8n" $DECIMAL
